@@ -107,7 +107,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 [npm-image]: https://img.shields.io/npm/v/hilojs.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/hilojs
 
-[size-image]:http://img.badgesize.io/hiloteam/hilo/master/build/standalone/hilo-standalone.min.js.svg?compression=gzip&style=flat-square
+[size-image]:https://img.shields.io/bundlephobia/minzip/hilojs?style=flat-square&label=zipped%20size
 [size-url]: https://img.shields.io/bundlephobia/minzip/hilojs?style=flat-square&label=zipped%20size
 
 [example-image]: https://img.alicdn.com/tps/TB1vDlBLVXXXXcDXVXXXXXXXXXX-850-806.png
