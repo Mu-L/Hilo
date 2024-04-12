@@ -1,4 +1,6 @@
-# Hilo - HTML5 Game Framework [![npm][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![size][size-image]][size-url] [![gitter.im][gitter-image]][gitter-url]
+# Hilo - HTML5 Game Framework 
+
+[![npm][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![size][size-image]][size-url] [![gitter.im][gitter-image]][gitter-url]
 
 [中文版](./README_ZH.md)
 
@@ -108,7 +110,7 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 [npm-url]: https://www.npmjs.com/package/hilojs
 
 [size-image]:https://img.shields.io/bundlephobia/minzip/hilojs?style=flat-square&label=zipped%20size
-[size-url]: https://img.shields.io/bundlephobia/minzip/hilojs?style=flat-square&label=zipped%20size
+[size-url]: https://raw.githubusercontent.com/hiloteam/Hilo/master/build/standalone/hilo-standalone.min.js
 
 [example-image]: https://img.alicdn.com/tps/TB1vDlBLVXXXXcDXVXXXXXXXXXX-850-806.png
 [example-url]: https://hiloteam.github.io/examples/index.html
